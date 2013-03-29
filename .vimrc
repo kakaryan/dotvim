@@ -40,7 +40,7 @@ let Tlist_Ctags_Cmd = '/usr/bin/ctags'
 let Tlist_ShowOne_File = 1
 let Tlist_Exit_OnlyWindow = 1
 let Tlist_Use_Right_Window = 1
-let Tlist_Auto_Open = 1
+"let Tlist_Auto_Open = 1
 colorscheme desert
 set fileencodings=utf-8,gb2312,gbk,gb18030
 map <F3> :TlistToggle<CR>             "映射F3打开/关闭TagList插件
